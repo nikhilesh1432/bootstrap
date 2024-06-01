@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(233, 75, 233);
+
+}
+
+div {
+    background-color: white;
+    width: 34%;
+    text-align: center;
+    margin-left: 430px;
+    height: 600px;
+    border-radius: 7px;
+    border: 40px solid white;  
+}
+button {
+    text-align: center;
+    background-color: blueviolet;
+    background-image: linear-gradient(to right, rgb(27, 59, 241) , rgb(231, 26, 231));
+    width: 26%;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+a {
+    margin-left: 300px;
+}

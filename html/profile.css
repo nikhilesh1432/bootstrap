@@ -1,0 +1,49 @@
+
+nav  {
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 200px;
+}
+
+ul {
+    text-decoration: none;
+    justify-content: space-between;
+    display: flex;
+    justify-content: center;
+
+}
+
+li {
+    list-style: none;
+    justify-content: space-evenly;
+    padding:10px;
+}
+div {
+    background-image: linear-gradient( red , blueviolet);
+    padding-top: 100px;
+    color: white;
+    font-size: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+section {
+    display: flex;
+}
+.text {
+    padding-top: 500px;
+}
+ img {
+    border-radius: 50px;
+ }
+.photo {
+    height: 1000px;
+}

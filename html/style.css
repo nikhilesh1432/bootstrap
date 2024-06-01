@@ -1,0 +1,16 @@
+p {
+    color: brown;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+      'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-size-adjust: 2;
+    text-align: justify;
+    text-decoration: dotted;
+    padding: 30px;
+    margin: 40px;
+    border: 5px solid red;
+    height: 300px;
+}
